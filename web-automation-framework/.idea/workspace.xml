@@ -41,22 +41,23 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\services\response" />
-      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\services\body" />
-      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\frontend\body" />
-      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\excel" />
-      <recent name="D:\RepositorioLocal\FrameworkBaseWEB\web-automation-framework\src\main\resources\template" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.tsoft.bot.services.clases" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\services\excel" />
       <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources" />
       <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\front" />
       <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\front\config\config" />
       <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\front\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tsoft.bot.services.clases" />
+      <recent name="com.tsoft.bot.services.steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TdP\AUTOMATIZACION\FrameworkWeb-Servicios\web-automation-framework\src\main\resources\services\excel" />
+      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\services\response" />
+      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\services\body" />
+      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\java\com\tsoft\bot\frontend\body" />
+      <recent name="D:\TdP\AUTOMATIZACION\APIS\FrameworkBaseWEB\web-automation-framework\src\main\resources\excel" />
     </key>
   </component>
   <component name="RunDashboard">
